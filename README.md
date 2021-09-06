@@ -362,101 +362,121 @@ _1._ **Bài tập _Plank_ cùi chỏ:** Vào tư thế như hình, hai chân có
 
 ![Ngày 23](./hiit/asset/image/bai-tap-hiit-ngay-23.jpg "Ngày 23")
 
-Cấp độ 1: 5 vòng
-Cấp độ 2: 10 vòng
-Cấp độ 3: 15 vòng
-Nghỉ 1 phút giữa các vòng
-Thực hiện càng nhanh càng tốt
-Cách thực hiện
+- Cấp độ 1: 5 vòng
+- Cấp độ 2: 10 vòng
+- Cấp độ 3: 15 vòng
+- Nghỉ 1 phút giữa các vòng
+- Thực hiện càng nhanh càng tốt
 
-Bài tập Plank nâng chân
-Bài tập Plank Jacks
-Bài tập Plank nâng tay
-Bài tập Plank nhảy: Vào tư thế Plank thẳng tay, nhảy 2 gối về phía ngực.
+### Cách thực hiện
 
-Ngày 24
-bai tap hiit ngay 24
+1. Bài tập Plank nâng chân
+2. Bài tập Plank Jacks
+3. Bài tập Plank nâng tay
+4. Bài tập Plank nhảy: Vào tư thế Plank thẳng tay, nhảy 2 gối về phía ngực.
 
-Cấp độ 1: 3 vòng
-Cấp độ 2: 4 vòng
-Cấp độ 3: 5 vòng
-Nghỉ 1 phút giữa các vòng
-Thực hiện càng nhanh càng tốt
-Cách thực hiện
+## Ngày 24
 
-Bài tập sit-ups
-Bài tập sitting twists
-Bài tập Flutter Kicks
-Bài tập cái kéo
-Ngày 25
-bai tap hiit ngay 25
+![Ngày 24](./hiit/asset/image/bai-tap-hiit-ngay-24.jpg "Ngày 24")
 
-Cấp độ 1: 5 vòng
-Cấp độ 2: 10 vòng
-Cấp độ 3: 15 vòng
-Bài tập chạy nâng cao đùi
-Một vòng gồm 2 lần: Chạy 30 giây và nghỉ 10 giây; chạy 30 giây và nghỉ 1 phút.
-Ngày 26
-bai tap hiit ngay 26
+- Cấp độ 1: 3 vòng
+- Cấp độ 2: 4 vòng
+- Cấp độ 3: 5 vòng
+- Nghỉ 1 phút giữa các vòng
+- Thực hiện càng nhanh càng tốt
 
-Cấp độ 1: 1 vòng
-Cấp độ 2: 2 vòng
-Cấp độ 3: 3 vòng
-Thực hiện liên tục các bài tập, nghỉ 2 phút/vòng.
-Cách thực hiện
+### Cách thực hiện
 
-Bài tập Plank thẳng tay: 30 giây
-Bài tập hít đất: 10 giây
-Bài tập Plank thẳng tay: 20 giây
-Bài tập Plank nâng chân: 10 giây/chân
-Bài tập hít đất nâng chân: 5 giây/chân
-Ngày 27
-bai tap hiit ngay 27
+1. Bài tập sit-ups
+2. Bài tập sitting twists
+3. Bài tập Flutter Kicks
+4. Bài tập cái kéo
 
-Cấp độ 1: 5 vòng
-Cấp độ 2: 10 vòng
-Cấp độ 3: 15 vòng
-Nghỉ 1 phút giữa các vòng
-Thực hiện càng nhanh càng tốt
-Cách thực hiện
+## Ngày 25
 
-Bài tập chạy nâng cao đùi
-Bài tập đá chân bên
-Bài tập leo núi
-Ngày 28
-bai tap hiit ngay 28
+![Ngày 25](./hiit/asset/image/bai-tap-hiit-ngay-25.jpg "Ngày 25")
 
-Cấp độ 1: 5 vòng
-Cấp độ 2: 10 vòng
-Cấp độ 3: 15 vòng
-Một vòng gồm 2 lần: Tập 30 giây và nghỉ 10 giây; tập 30 giây và nghỉ 1 phút.
-Cách thực hiện
+- Cấp độ 1: 5 vòng
+- Cấp độ 2: 10 vòng
+- Cấp độ 3: 15 vòng
+- **Bài tập chạy nâng cao đùi**
+- Một vòng gồm 2 lần: Chạy 30 giây và nghỉ 10 giây; chạy 30 giây và nghỉ 1 phút.
 
-Bài tập HIIT nhảy Squat: Đứng thẳng người, 2 chân khép lại. Nhảy mạnh và Squat.
-Ngày 29
-bai tap hiit ngay 29
+## Ngày 26
 
-Cấp độ 1: 5 vòng
-Cấp độ 2: 10 vòng
-Cấp độ 3: 15 vòng
-Nghỉ 1 phút giữa các vòng
-Thực hiện càng nhanh càng tốt
-Cách thực hiện
+![Ngày 26](./hiit/asset/image/bai-tap-hiit-ngay-26.jpg "Ngày 26")
 
-Bài tập Crunches
-Bài tập Flutter Kicks
-Bài tập cái kéo
-Bài tập gập bụng chéo gối: Ngồi trên sàn, 2 tay đặt sau đầu. Gập người lên, chéo cùi chỏ trái chạm vào gối chân phải.
-Ngày 30
-bai tap hiit ngay 30
+- Cấp độ 1: 1 vòng
+- Cấp độ 2: 2 vòng
+- Cấp độ 3: 3 vòng
+- Thực hiện liên tục các bài tập, nghỉ 2 phút/vòng.
 
-Cấp độ 1: 5 vòng
-Cấp độ 2: 10 vòng
-Cấp độ 3: 15 vòng
-Nghỉ 1 phút giữa các vòng
-Thực hiện càng nhanh càng tốt
-Cách thực hiện
+### Cách thực hiện
 
-Bài tập chạy nâng cao đùi
-Bài tập Jumping Jacks
-Bài tập chạy đánh tay bên
+1. Bài tập Plank thẳng tay: 30 giây
+2. Bài tập hít đất: 10 giây
+3. Bài tập Plank thẳng tay: 20 giây
+4. Bài tập Plank nâng chân: 10 giây/chân
+5. Bài tập hít đất nâng chân: 5 giây/chân
+
+## Ngày 27
+
+![Ngày 27](./hiit/asset/image/bai-tap-hiit-ngay-27.jpg "Ngày 27")
+
+- Cấp độ 1: 5 vòng
+- Cấp độ 2: 10 vòng
+- Cấp độ 3: 15 vòng
+- Nghỉ 1 phút giữa các vòng
+- Thực hiện càng nhanh càng tốt
+
+### Cách thực hiện
+
+1. Bài tập chạy nâng cao đùi
+2. Bài tập đá chân bên
+3. Bài tập leo núi
+
+## Ngày 28
+
+![Ngày 28](./hiit/asset/image/bai-tap-hiit-ngay-27.jpg "Ngày 28")
+
+- Cấp độ 1: 5 vòng
+- Cấp độ 2: 10 vòng
+- Cấp độ 3: 15 vòng
+- Một vòng gồm 2 lần: Tập 30 giây và nghỉ 10 giây; tập 30 giây và nghỉ 1 phút.
+
+### Cách thực hiện
+
+- **Bài tập HIIT nhảy Squat**: Đứng thẳng người, 2 chân khép lại. Nhảy mạnh và Squat.
+
+## Ngày 29
+
+![Ngày 29](./hiit/asset/image/bai-tap-hiit-ngay-29.jpg "Ngày 29")
+
+- Cấp độ 1: 5 vòng
+- Cấp độ 2: 10 vòng
+- Cấp độ 3: 15 vòng
+- Nghỉ 1 phút giữa các vòng
+- Thực hiện càng nhanh càng tốt
+
+### Cách thực hiện
+
+1. Bài tập Crunches
+2. Bài tập Flutter Kicks
+3. Bài tập cái kéo
+4. Bài tập gập bụng chéo gối: Ngồi trên sàn, 2 tay đặt sau đầu. Gập người lên, chéo cùi chỏ trái chạm vào gối chân phải.
+
+## Ngày 30
+
+![Ngày 30](./hiit/asset/image/bai-tap-hiit-ngay-30.jpg "Ngày 30")
+
+- Cấp độ 1: 5 vòng
+- Cấp độ 2: 10 vòng
+- Cấp độ 3: 15 vòng
+- Nghỉ 1 phút giữa các vòng
+- Thực hiện càng nhanh càng tốt
+
+### Cách thực hiện
+
+1. Bài tập chạy nâng cao đùi
+2. Bài tập Jumping Jacks
+3. Bài tập chạy đánh tay bên
