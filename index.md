@@ -251,7 +251,9 @@ _1._ **Bài tập _Plank_ cùi chỏ:** Vào tư thế như hình, hai chân có
 3. Bài tập Half Jacks
 4. Bài tập Lunge Step-Ups
 
-c
+## Ngày 16
+
+![Ngày 16](./hiit/asset/image/bai-tap-hiit-ngay-16.jpg "Ngày 16")
 
 - Cấp độ 1: 3 vòng
 - Cấp độ 2: 4 vòng
